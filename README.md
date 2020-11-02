@@ -16,7 +16,7 @@ School: Oregon State University
 
 Class: CS 271 (Computer Architecture & Assembly Language)
 
-**This program was developed for CS 261 in OSU's Computer Science program.
+**This program was developed for CS 271 in OSU's Computer Science program.
 Permission is granted to publish the project publicly.**
 
 
